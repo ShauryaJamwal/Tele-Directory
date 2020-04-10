@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ShauryaJamwal.github.io/static/css/main.3f780d04.chunk.css",
+    "main.js": "/ShauryaJamwal.github.io/static/js/main.8c568ec0.chunk.js",
+    "main.js.map": "/ShauryaJamwal.github.io/static/js/main.8c568ec0.chunk.js.map",
+    "runtime-main.js": "/ShauryaJamwal.github.io/static/js/runtime-main.eaaaf111.js",
+    "runtime-main.js.map": "/ShauryaJamwal.github.io/static/js/runtime-main.eaaaf111.js.map",
+    "static/js/2.b70f68aa.chunk.js": "/ShauryaJamwal.github.io/static/js/2.b70f68aa.chunk.js",
+    "static/js/2.b70f68aa.chunk.js.map": "/ShauryaJamwal.github.io/static/js/2.b70f68aa.chunk.js.map",
+    "index.html": "/ShauryaJamwal.github.io/index.html",
+    "precache-manifest.f0ac6a263c7124f0edbc7be523846d78.js": "/ShauryaJamwal.github.io/precache-manifest.f0ac6a263c7124f0edbc7be523846d78.js",
+    "service-worker.js": "/ShauryaJamwal.github.io/service-worker.js",
+    "static/css/main.3f780d04.chunk.css.map": "/ShauryaJamwal.github.io/static/css/main.3f780d04.chunk.css.map",
+    "static/js/2.b70f68aa.chunk.js.LICENSE.txt": "/ShauryaJamwal.github.io/static/js/2.b70f68aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eaaaf111.js",
+    "static/js/2.b70f68aa.chunk.js",
+    "static/css/main.3f780d04.chunk.css",
+    "static/js/main.8c568ec0.chunk.js"
+  ]
+}
